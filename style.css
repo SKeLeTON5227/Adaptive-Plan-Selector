@@ -184,6 +184,7 @@ html {
     .footer {
         margin-top: 500px;
         font-size: 60px;
+        color: grey;
     }
 
     .footer h2 {
